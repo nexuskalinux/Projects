@@ -15,8 +15,10 @@
   L'inclusion financière reste l'un des principaux obstacles au développement économique et humain en Afrique.
   Qui est le plus susceptible d'avoir un compte bancaire ?
 
-5. Web Scraping :
+5. Etude du prix de l'immobilier à Boston avec Seaborn + Exercices complémentaires 
+
+6. Web Scraping :
   Le web scraping est la récupération de données de pages web, de façons automatique. C’est une technique, basée sur un principe simple. Qui sert à de nombreuses applications : Moteurs de recherche, comparateurs de prix, outils de monitoring etc.
 
-6. SQL - TP1
+7. SQL - TP1
 
