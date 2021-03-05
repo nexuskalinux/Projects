@@ -6,12 +6,17 @@
 2. Covid-19
  Machine learnia
 
-3. Projet Finance
+3. Crétion d'un Dataset
+ Equilibrer les données de 2 façon différentes
+ Tester 3 modèles de classification
+ Decision tree / random forest / XGBOOST
+
+4. Projet Finance
   Description : L'inclusion financière reste l'un des principaux obstacles au développement économique et humain en Afrique.
   Qui est le plus susceptible d'avoir un compte bancaire ?
 
-4. Web Scraping 
+5. Web Scraping 
   Le web scraping est la récupération de données de pages web, de façons automatique. C’est une technique, basée sur un principe simple. Qui sert à de nombreuses applications : Moteurs de recherche, comparateurs de prix, outils de monitoring etc.
 
-5. SQL - TP1
+6. SQL - TP1
 
