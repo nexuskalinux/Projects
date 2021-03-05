@@ -1,2 +1,10 @@
-# Projects : Comprendre le chômage en France
+# Projects Simplon: 
+
+Comprendre le chômage en France
 Pour cela, nous avons récupéré des données sur data.gouv du chômage en France en 2017
+
+
+Projet Finance
+Description du projet : L'inclusion financière reste l'un des principaux obstacles au développement économique et humain en Afrique.
+
+Qui est le plus susceptible d'avoir un compte bancaire ?
