@@ -5,6 +5,6 @@ Pour cela, nous avons récupéré des données sur data.gouv du chômage en Fran
 
 
 Projet Finance
-Description du projet : L'inclusion financière reste l'un des principaux obstacles au développement économique et humain en Afrique.
+Description : L'inclusion financière reste l'un des principaux obstacles au développement économique et humain en Afrique.
 
 Qui est le plus susceptible d'avoir un compte bancaire ?
