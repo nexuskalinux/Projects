@@ -21,6 +21,3 @@
 
 7. Web Scraping :
   Le web scraping est la récupération de données de pages web, de façons automatique. C’est une technique, basée sur un principe simple. Qui sert à de nombreuses applications : Moteurs de recherche, comparateurs de prix, outils de monitoring etc.
-
-8. SQL - TP1
-
